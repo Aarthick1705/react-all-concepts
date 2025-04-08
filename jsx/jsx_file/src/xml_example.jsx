@@ -3,7 +3,7 @@ import React from "react";
 
 const Xmlexample=()=>{
 
- const name="aarthickraja";
+ const name="aarthick";
 
 
     return(
